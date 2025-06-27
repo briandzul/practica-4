@@ -1,0 +1,40 @@
+body{
+    background-color: black;
+}
+
+#btn {
+background-color: rgb(5, 31, 61);
+padding: 5px 3px 5px 3px;
+width: 25%;
+text-align: center;
+color: white;
+font-size: 50px;
+border-radius: 50px;
+font-family: "Roboto flex";
+display: flex;
+position: absolute;
+left: 10%;
+transition:background-color, width 2s case;
+ }
+
+ #btn:hover {
+    width: 35%;
+    background-color: rgb(5, 31, 61);
+    color: white
+ }
+
+ #fm {
+    color: white;
+    font-family: "Roboto flex";
+    font-size: 35px;
+    padding: 20% 25% 0 25%;
+    text-align: center;
+ }
+
+ #na {
+    color: white;
+    font-family: "Roboto flex";
+    font-size: 35px;
+    text-align: center;
+    
+ }
